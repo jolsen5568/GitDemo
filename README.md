@@ -1,5 +1,5 @@
 # Git Demo Repo
-This is the demo app for the command line update.
+This is the demo repository for the command line update.
 
 ## How To Work With Git
 1. git checkout main
